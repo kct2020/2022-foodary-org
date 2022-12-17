@@ -1,0 +1,3 @@
+# search for links to old target, delete old target, new target add: h., comment, replace www, change adsense, move this comment to top
+# /old/* https://domain.com/new/ 301
+# Test redirects. Optionally, add annotations to new target pages?
